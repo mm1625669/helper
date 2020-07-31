@@ -1,0 +1,11 @@
+{
+    "name": "wfh/helper",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mm",
+            "email": "mm1625669@163.com"
+        }
+    ],
+    "require": {}
+}
