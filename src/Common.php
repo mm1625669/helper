@@ -1,5 +1,6 @@
 <?php
 
+namespace Helper\Src;
 
 class Common
 {
