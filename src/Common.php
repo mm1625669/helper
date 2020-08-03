@@ -1,6 +1,6 @@
 <?php
 
-namespace Helper\Src;
+namespace Wfh\Helper\Src;
 
 class Common
 {
